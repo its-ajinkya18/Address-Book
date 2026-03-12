@@ -25,7 +25,7 @@ The application allows users to **store, search, display, and save contacts** wi
 ✔ Prevent duplicate email entries\
 ✔ Save contacts to a file\
 ✔ Load contacts from a file\
-✔ Simple menu-driven interface\
+✔ Simple menu-driven interface
 
 ---
 
@@ -118,7 +118,7 @@ Through this project, I gained hands-on experience with:
 
 **Ajinkya Subhash Kadam**\
 Electronic and Computer Enthusiast\
-Embedded Systems Developer\
+Embedded Systems Developer
 
 ---
 
