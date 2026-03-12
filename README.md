@@ -18,14 +18,14 @@ The application allows users to **store, search, display, and save contacts** wi
 
 ## 🚀 Features
 
-✔ Add new contacts
-✔ Display all contacts
-✔ Search contacts by **Name or Email**
-✔ Email format validation
-✔ Prevent duplicate email entries
-✔ Save contacts to a file
-✔ Load contacts from a file
-✔ Simple menu-driven interface
+✔ Add new contacts\
+✔ Display all contacts\
+✔ Search contacts by **Name or Email**\
+✔ Email format validation\
+✔ Prevent duplicate email entries\
+✔ Save contacts to a file\
+✔ Load contacts from a file\
+✔ Simple menu-driven interface\
 
 ---
 
@@ -116,9 +116,9 @@ Through this project, I gained hands-on experience with:
 
 ## 👨‍💻 Author
 
-**Ajinkya Subhash Kadam**
-Electronic and Computer Enthusiast
-Embedded Systems Developer
+**Ajinkya Subhash Kadam**\
+Electronic and Computer Enthusiast\
+Embedded Systems Developer\
 
 ---
 
